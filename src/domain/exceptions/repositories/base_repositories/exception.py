@@ -1,0 +1,3 @@
+
+class InvalidMongoConnection(Exception):
+    pass
